@@ -1,3 +1,7 @@
 hello from the master
 hello azzam from master
+<<<<<<< HEAD
 hello again from master
+=======
+print("addind new line")
+>>>>>>> 532298e2af53eaf1bd4bbd711196440319b96dfd
